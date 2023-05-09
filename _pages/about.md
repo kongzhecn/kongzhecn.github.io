@@ -58,7 +58,7 @@ Previously, I interned at Tencent. My research interests include face anti-spoof
 - *2020.11* 2020 Freshman Scholarship, First Class.
 
 # 📖 Educations
-- *2020.09 - (now)*, Sun Yat-sen University. 
+- *2023.09 - (now)*, Sun Yat-sen University. 
 - *2020.09 - 2023.06*, Shenzhen University. 
 - *2016.09 - 2020.06*, South China Agricultural University. 
 
