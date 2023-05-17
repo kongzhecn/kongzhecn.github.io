@@ -53,9 +53,9 @@ Previously, I interned at Tencent. My research interests include face anti-spoof
 
 
 # 🎖 Honors and Awards
-- *2022.11* 2021 Excellent Academic Scholarship, First Class.
-- *2021.11* 2020 Excellent Academic Scholarship, First Class.
-- *2020.11* 2020 Freshman Scholarship, First Class.
+- 2022 Excellent Academic Scholarship, First Class.
+- 2021 Excellent Academic Scholarship, First Class.
+- 2020 Freshman Scholarship, First Class.
 
 # 📖 Educations
 - *2023.09 - (now)*, Sun Yat-sen University. 
@@ -69,4 +69,4 @@ Previously, I interned at Tencent. My research interests include face anti-spoof
 -->
 
 # 💻 Internships
-- *2022.03 - 2023.011*, Tencent, China.
+- *2022.03 - 2023.11*, Tencent, China.
