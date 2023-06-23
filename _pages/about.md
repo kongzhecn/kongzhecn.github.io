@@ -53,7 +53,7 @@ Previously, I interned at Tencent. My research interests include face anti-spoof
 
 
 # 🎖 Honors and Awards
-- Outstanding Graduate Award (Rate<5%)
+- 2023 Outstanding Graduate Award (Rate<5%)
 - 2022 Excellent Academic Scholarship, First Class.
 - 2021 Excellent Academic Scholarship, First Class.
 - 2020 Freshman Scholarship, First Class.
