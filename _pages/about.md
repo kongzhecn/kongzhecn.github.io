@@ -70,7 +70,7 @@ Previously, I interned at Tencent. My research interests include face anti-spoof
 -->
 
 # 💻 Internships
-- *2022.03 - 2023.11*, Tencent, China.
+- *2022.03 - 2022.11*, Tencent, China.
 
 # 💬 Professional Service
 
