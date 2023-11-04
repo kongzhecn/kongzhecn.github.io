@@ -48,8 +48,8 @@ Previously, I interned at Tencent. My research interests include face anti-spoof
 -->
 
 <!--- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**-->
-- [Taming Self-Supervised Learning for Presentation Attack Detection: De-Folding and De-Mixing](https://ieeexplore.ieee.org/abstract/document/10051654) Zhe Kong, Wentian Zhang, Feng Liu, Wenhan Luo, Haozhe Liu, Linlin Shen, Raghavendra Ramachandra, **TNNLS**
-- [Fingerprint Presentation Attack Detection by Channel-Wise Feature Denoising](https://ieeexplore.ieee.org/document/9851680) Feng Liu, Zhe Kong, Haozhe Liu, Wentian Zhang, Linlin Shen, **TIFS**
+- [Taming Self-Supervised Learning for Presentation Attack Detection: De-Folding and De-Mixing](https://ieeexplore.ieee.org/abstract/document/10051654) **Zhe Kong**, Wentian Zhang, Feng Liu, Wenhan Luo, Haozhe Liu, Linlin Shen, Raghavendra Ramachandra, **TNNLS**
+- [Fingerprint Presentation Attack Detection by Channel-Wise Feature Denoising](https://ieeexplore.ieee.org/document/9851680) Feng Liu, **Zhe Kong**, Haozhe Liu, Wentian Zhang, Linlin Shen, **TIFS**
 
 
 # 🎖 Honors and Awards
