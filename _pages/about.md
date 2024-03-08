@@ -19,10 +19,10 @@ redirect_from:
 
 
 
-I am working towards a Ph.D. degree in Sun Yat-sen University, under the supervision of Prof.[Wenhan Luo](https://whluo.github.io/). 
+I am working towards a Ph.D. degree at Sun Yat-sen University, under the supervision of Prof.[Wenhan Luo](https://whluo.github.io/). 
 Before, I received the M.E. degree from Shenzhen University, China, 2023 and under the supervision of Prof.[Feng Liu](https://scholar.google.com/citations?user=45uLWocAAAAJ) and Prof.[Linlin Shen](https://scholar.google.com/citations?user=AZ_y9HgAAAAJ).
 I have published several papers in journals, including TIFS, TNNLS. 
-Previously, I interned at Tencent. My research interests include face anti-spoofing, self-supervised learning and multimodal.
+Previously, I interned at Tencent. My research interests include generative models and image\video synthesis.
 
 
 
