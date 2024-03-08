@@ -54,8 +54,8 @@ Previously, I interned at Tencent. My research interests include face anti-spoof
 
 Feng Liu, **Zhe Kong**, Haozhe Liu, Wentian Zhang, Linlin Shen
 
-[**Code**](https://github.com/kongzhecn/cfd-pad)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This paper thus proposes a novel channel-wise feature denoising fingerprint PAD (CFD-PAD) method by handling the redundant noise information ignored in previous studies. The proposed method learns important features of fingerprint images by weighing the importance of each channel and identifying discriminative channels and “noise" channels. Then, the propagation of “noise" channels is suppressed in the feature map to reduce interference. Specifically, a PA-Adaptation loss is designed to constrain the feature distribution to make the feature distribution of live fingerprints more aggregate and that of spoof fingerprints more disperse.
+- [**Code**](https://github.com/kongzhecn/cfd-pad) 
 </div>
 </div>
 
