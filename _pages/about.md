@@ -88,7 +88,9 @@ Feng Liu, **Zhe Kong**, Haozhe Liu, Wentian Zhang, Linlin Shen
 # 💻 Internships
 - *2022.03 - 2022.11*, Tencent, China.
 
+<!--
 # 💬 Professional Service
 
 ### Conference Reviewer 
 - ACM MM: 2023
+-->
