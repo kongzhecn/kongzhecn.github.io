@@ -34,7 +34,7 @@ Previously, I interned at Tencent. My research interests include face anti-spoof
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS</div><img src='images/dfdm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Taming Self-Supervised Learning for Presentation Attack Detection: De-Folding and De-Mixing](https://ieeexplore.ieee.org/abstract/document/10051654)
@@ -47,7 +47,7 @@ Previously, I interned at Tencent. My research interests include face anti-spoof
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS</div><img src='images/cfd-pad.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [Fingerprint Presentation Attack Detection by Channel-Wise Feature Denoising](https://ieeexplore.ieee.org/document/9851680)
