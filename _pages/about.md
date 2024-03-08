@@ -65,6 +65,8 @@ Feng Liu, **Zhe Kong**, Haozhe Liu, Wentian Zhang, Linlin Shen
 - [Taming Self-Supervised Learning for Presentation Attack Detection: De-Folding and De-Mixing (2023)](https://ieeexplore.ieee.org/abstract/document/10051654) **Zhe Kong**, Wentian Zhang, Feng Liu, Wenhan Luo, Haozhe Liu, Linlin Shen, Raghavendra Ramachandra, **TNNLS**
 - [Fingerprint Presentation Attack Detection by Channel-Wise Feature Denoising (2022)](https://ieeexplore.ieee.org/document/9851680) Feng Liu, **Zhe Kong**, Haozhe Liu, Wentian Zhang, Linlin Shen, **TIFS**
 
+# 💻 Internships
+- *2022.03 - 2022.11*, Tencent, China.
 
 # 🎖 Honors and Awards
 - 2023 Outstanding Graduate Award (Rate<5%)
@@ -85,8 +87,6 @@ Feng Liu, **Zhe Kong**, Haozhe Liu, Wentian Zhang, Linlin Shen
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 -->
 
-# 💻 Internships
-- *2022.03 - 2022.11*, Tencent, China.
 
 <!--
 # 💬 Professional Service
