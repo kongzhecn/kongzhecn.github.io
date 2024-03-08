@@ -54,7 +54,7 @@ Previously, I interned at Tencent. My research interests include face anti-spoof
 
 Feng Liu, **Zhe Kong**, Haozhe Liu, Wentian Zhang, Linlin Shen
 
-[**Code**]([https://github.com/kongzhecn/cfd-pad](https://github.com/kongzhecn/cfd-pad)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Code**](https://github.com/kongzhecn/cfd-pad)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
