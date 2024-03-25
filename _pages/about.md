@@ -33,6 +33,17 @@ Previously, I interned at Tencent. My research interests include generative mode
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='https://github.com/kongzhecn/omg-project/blob/gh-pages/static/images/teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[OMG: Occlusion-friendly Personalized Multi-concept Generation in Diffusion Models](https://arxiv.org/abs/2403.10983)
+
+**Zhe Kong**, Yong Zhang, Tianyu Yang, Tao Wang, Kaihao Zhang, Bizhu Wu, Guanying Chen, Wei Liu, Wenhan Luo
+-  In this work, we propose OMG, an occlusion-friendly personalized generation framework designed to seamlessly integrate multiple concepts within a single image. We propose a novel two-stage sampling solution. The first stage takes charge of layout generation and visual comprehension information collection for handling occlusions. The second one utilizes the acquired visual comprehension information and the designed noise blending to integrate multiple concepts while considering occlusions. We also observe that the initiation denoising timestep for noise blending is the key to identity preservation and layout. Moreover, our method can be combined with various single-concept models, such as LoRA and InstantID without additional tuning. Especially, LoRA models on Civitai.com can be exploited directly.
+- [**Page**](https://kongzhecn.github.io/omg-project/) [**Code**](https://github.com/kongzhecn/dfdm) 
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS</div><img src='images/dfdm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
