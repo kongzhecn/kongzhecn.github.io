@@ -41,7 +41,7 @@ Previously, I interned at Tencent. My research interests include generative mode
 **Zhe Kong**, Yong Zhang, Tianyu Yang, Tao Wang, Kaihao Zhang, Bizhu Wu, Guanying Chen, Wei Liu, Wenhan Luo
 
 -  In this work, we propose OMG, an occlusion-friendly personalized generation framework designed to seamlessly integrate multiple concepts within a single image. We propose a novel two-stage sampling solution. The first stage takes charge of layout generation and visual comprehension information collection for handling occlusions. The second one utilizes the acquired visual comprehension information and the designed noise blending to integrate multiple concepts while considering occlusions. We also observe that the initiation denoising timestep for noise blending is the key to identity preservation and layout. Moreover, our method can be combined with various single-concept models, such as LoRA and InstantID without additional tuning. Especially, LoRA models on Civitai.com can be exploited directly.
-- [**[Page]**](https://kongzhecn.github.io/omg-project/) [**[Code]**](https://github.com/kongzhecn/dfdm) 
+- [**[Project]**](https://kongzhecn.github.io/omg-project/) [**[Code]**](https://github.com/kongzhecn/dfdm) 
 </div>
 </div>
 
@@ -53,7 +53,7 @@ Previously, I interned at Tencent. My research interests include generative mode
 
 **Zhe Kong**, Wentian Zhang, Feng Liu, Wenhan Luo, Haozhe Liu, Linlin Shen, Raghavendra Ramachandra
 - We proposed a self-supervised learning-based method, denoted as DF-DM. Specifically, DF-DM is based on a global-local view coupled with De-Folding and De-Mixing to derive the task-specific representation for PAD. During De-Folding, the proposed technique will learn region-specific features to represent samples in a local pattern by explicitly minimizing generative loss. While De-Mixing drives detectors to obtain the instance-specific features with global information for more comprehensive representation by minimizing interpolation-based consistency.
-- [**Code**](https://github.com/kongzhecn/dfdm) 
+- [**[Code]**](https://github.com/kongzhecn/dfdm) 
 </div>
 </div>
 
@@ -67,7 +67,7 @@ Previously, I interned at Tencent. My research interests include generative mode
 Feng Liu, **Zhe Kong**, Haozhe Liu, Wentian Zhang, Linlin Shen
 
 - This paper proposes a novel channel-wise feature denoising fingerprint PAD (CFD-PAD) method by handling the redundant noise information ignored in previous studies. The proposed method learns important features of fingerprint images by weighing the importance of each channel and identifying discriminative channels and “noise" channels. Then, the propagation of “noise" channels is suppressed in the feature map to reduce interference. Specifically, a PA-Adaptation loss is designed to constrain the feature distribution to make the feature distribution of live fingerprints more aggregate and that of spoof fingerprints more disperse.
-- [**Code**](https://github.com/kongzhecn/cfd-pad) 
+- [**[Code]**](https://github.com/kongzhecn/cfd-pad) 
 </div>
 </div>
 
