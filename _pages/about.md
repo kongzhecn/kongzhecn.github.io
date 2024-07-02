@@ -33,7 +33,7 @@ Previously, I interned at Tencent. My research interests include generative mode
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/omg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/omg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [OMG: Occlusion-friendly Personalized Multi-concept Generation in Diffusion Models](https://arxiv.org/abs/2403.10983)
