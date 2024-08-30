@@ -19,8 +19,8 @@ redirect_from:
 
 
 
-I am working towards a Ph.D. degree at Sun Yat-sen University, under the supervision of Prof.[Wenhan Luo](https://whluo.github.io/) and Prof.[Guanying Chen](https://guanyingc.github.io/). 
-Before, I received the M.E. degree from Shenzhen University, China, 2023 and under the supervision of Prof.[Feng Liu](https://scholar.google.com/citations?user=45uLWocAAAAJ) and Prof.[Linlin Shen](https://scholar.google.com/citations?user=AZ_y9HgAAAAJ).
+I am working towards a Ph.D. degree at Sun Yat-sen University, under the supervision of Prof. [Wenhan Luo](https://whluo.github.io/) and Prof. [Guanying Chen](https://guanyingc.github.io/). 
+Before, I received the M.E. degree from Shenzhen University, China, 2023 and under the supervision of Prof. [Feng Liu](https://scholar.google.com/citations?user=45uLWocAAAAJ) and Prof. [Linlin Shen](https://scholar.google.com/citations?user=AZ_y9HgAAAAJ).
 My research interests include generative models and image/video synthesis.
 
 
