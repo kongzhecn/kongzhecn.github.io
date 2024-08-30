@@ -37,12 +37,14 @@ My research interests include generative models and image/video synthesis.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/omg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[OMG: Occlusion-friendly Personalized Multi-concept Generation in Diffusion Models](https://arxiv.org/abs/2403.10983)
+- OMG: Occlusion-friendly Personalized Multi-concept Generation in Diffusion Models,
 
-**Zhe Kong**, Yong Zhang, Tianyu Yang, Tao Wang, Kaihao Zhang, Bizhu Wu, Guanying Chen, Wei Liu, Wenhan Luo
+  **Zhe Kong**, Yong Zhang, Tianyu Yang, Tao Wang, Kaihao Zhang, Bizhu Wu, Guanying Chen, Wei Liu, Wenhan Luo, 
 
--  In this work, we propose OMG, an occlusion-friendly personalized generation framework designed to seamlessly integrate multiple concepts within a single image. We propose a novel two-stage sampling solution. The first stage takes charge of layout generation and visual comprehension information collection for handling occlusions. The second one utilizes the acquired visual comprehension information and the designed noise blending to integrate multiple concepts while considering occlusions. We also observe that the initiation denoising timestep for noise blending is the key to identity preservation and layout. Moreover, our method can be combined with various single-concept models, such as LoRA and InstantID without additional tuning. Especially, LoRA models on Civitai.com can be exploited directly.
-- [**[Project]**](https://kongzhecn.github.io/omg-project/) [**[Code]**](https://github.com/kongzhecn/OMG) [**[HuggingFace Demo]**](https://huggingface.co/spaces/Fucius/OMG)
+  European Conference on Computer Vision (ECCV), 2024.
+
+  [**[arxiv]**](https://arxiv.org/abs/2403.10983) [**[code]**](https://github.com/kongzhecn/OMG) [**[project]**](https://kongzhecn.github.io/omg-project/) [**[huggingFace demo]**](https://huggingface.co/spaces/Fucius/OMG)
+
 </div>
 </div>
 
@@ -50,11 +52,14 @@ My research interests include generative models and image/video synthesis.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS</div><img src='images/dfdm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Taming Self-Supervised Learning for Presentation Attack Detection: De-Folding and De-Mixing](https://ieeexplore.ieee.org/abstract/document/10051654)
+- Taming Self-Supervised Learning for Presentation Attack Detection: De-Folding and De-Mixing,
+  
+  **Zhe Kong**, Wentian Zhang, Feng Liu, Wenhan Luo, Haozhe Liu, Linlin Shen, Raghavendra Ramachandra,
 
-**Zhe Kong**, Wentian Zhang, Feng Liu, Wenhan Luo, Haozhe Liu, Linlin Shen, Raghavendra Ramachandra
-- We proposed a self-supervised learning-based method, denoted as DF-DM. Specifically, DF-DM is based on a global-local view coupled with De-Folding and De-Mixing to derive the task-specific representation for PAD. During De-Folding, the proposed technique will learn region-specific features to represent samples in a local pattern by explicitly minimizing generative loss. While De-Mixing drives detectors to obtain the instance-specific features with global information for more comprehensive representation by minimizing interpolation-based consistency.
-- [**[Code]**](https://github.com/kongzhecn/dfdm) 
+  IEEE Transactions on Neural Networks and learning systems (TNNLS), 2023.
+
+  [**[paper]**](https://ieeexplore.ieee.org/abstract/document/10051654) [**[arxiv]**](https://arxiv.org/abs/2109.04100) [**[code]**](https://github.com/kongzhecn/dfdm)
+  
 </div>
 </div>
 
