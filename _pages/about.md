@@ -78,7 +78,7 @@ Feng Liu, **Zhe Kong**, Haozhe Liu, Wentian Zhang, Linlin Shen
 
   European Conference on Computer Vision (ECCV), 2024.
 
-  [**[PDF]**](https://arxiv.org/abs/2403.10983) [**[Code]**](https://github.com/kongzhecn/OMG) [**[Project]**](https://kongzhecn.github.io/omg-project/) [**[HuggingFace]**](https://huggingface.co/spaces/Fucius/OMG)
+  [**[Arxiv]**](https://arxiv.org/abs/2403.10983) [**[Code]**](https://github.com/kongzhecn/OMG) [**[Project]**](https://kongzhecn.github.io/omg-project/) [**[HuggingFace]**](https://huggingface.co/spaces/Fucius/OMG)
   
 - Dual Teacher Knowledge Distillation with Domain Alignment for Face Anti-spoofing,
 
