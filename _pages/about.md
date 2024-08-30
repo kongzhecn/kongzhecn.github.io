@@ -41,7 +41,7 @@ My research interests include generative models and image/video synthesis.
 
   **Zhe Kong**, Yong Zhang, Tianyu Yang, Tao Wang, Kaihao Zhang, Bizhu Wu, Guanying Chen, Wei Liu, Wenhan Luo, 
 
-  European Conference on Computer Vision (ECCV), 2024.
+  **European Conference on Computer Vision (ECCV), 2024.**
 
   [**[arxiv]**](https://arxiv.org/abs/2403.10983) [**[code]**](https://github.com/kongzhecn/OMG) [**[project]**](https://kongzhecn.github.io/omg-project/) [**[huggingFace demo]**](https://huggingface.co/spaces/Fucius/OMG)
 
