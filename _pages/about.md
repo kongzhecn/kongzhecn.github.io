@@ -67,7 +67,7 @@ My research interests include generative models and image/video synthesis.
 
   European Conference on Computer Vision (ECCV), 2024.
 
-  [**[Arxiv]**](https://arxiv.org/abs/2403.10983) [**[Code]**](https://github.com/kongzhecn/OMG) [**[Project]**](https://kongzhecn.github.io/omg-project/) [**[HuggingFace Demo]**](https://huggingface.co/spaces/Fucius/OMG)
+  [**[arxiv]**](https://arxiv.org/abs/2403.10983) [**[code]**](https://github.com/kongzhecn/OMG) [**[project]**](https://kongzhecn.github.io/omg-project/) [**[huggingFace demo]**](https://huggingface.co/spaces/Fucius/OMG)
   
 - Dual Teacher Knowledge Distillation with Domain Alignment for Face Anti-spoofing,
 
@@ -75,7 +75,7 @@ My research interests include generative models and image/video synthesis.
 
   IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024.
 
-  [**[Paper]**](https://ieeexplore.ieee.org/document/10654388) [**[Arxiv]**](https://arxiv.org/abs/2401.01102)
+  [**[paper]**](https://ieeexplore.ieee.org/document/10654388) [**[arxiv]**](https://arxiv.org/abs/2401.01102)
   
 - Taming Self-Supervised Learning for Presentation Attack Detection: De-Folding and De-Mixing,
   
@@ -83,7 +83,7 @@ My research interests include generative models and image/video synthesis.
 
   IEEE Transactions on Neural Networks and learning systems (TNNLS), 2023.
 
-  [**[Paper]**](https://ieeexplore.ieee.org/abstract/document/10051654) [**[Arxiv]**](https://arxiv.org/abs/2109.04100) [**[Code]**](https://github.com/kongzhecn/dfdm)
+  [**[paper]**](https://ieeexplore.ieee.org/abstract/document/10051654) [**[arxiv]**](https://arxiv.org/abs/2109.04100) [**[code]**](https://github.com/kongzhecn/dfdm)
 
 - Fingerprint Presentation Attack Detection by Channel-Wise Feature Denoising,
 
@@ -91,7 +91,7 @@ My research interests include generative models and image/video synthesis.
 
   IEEE Transactions on Information Forensics and Security (TIFS), 2022.
 
-  [**[Paper]**](https://ieeexplore.ieee.org/abstract/document/9851680) [**[Arxiv]**](https://arxiv.org/abs/2111.07620) [**[Code]**](https://github.com/kongzhecn/cfd-pad)
+  [**[paper]**](https://ieeexplore.ieee.org/abstract/document/9851680) [**[arxiv]**](https://arxiv.org/abs/2111.07620) [**[code]**](https://github.com/kongzhecn/cfd-pad)
 
 # 💻 Internships
 - *2022.03 - 2022.11*, Tencent, China.
