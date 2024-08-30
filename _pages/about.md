@@ -96,7 +96,7 @@ Feng Liu, **Zhe Kong**, Haozhe Liu, Wentian Zhang, Linlin Shen
 
   [**[Paper]**](https://ieeexplore.ieee.org/abstract/document/10051654) [**[Arxiv]**](https://arxiv.org/abs/2109.04100) [**[Code]**](https://github.com/kongzhecn/dfdm)
 
-- [Fingerprint Presentation Attack Detection by Channel-Wise Feature Denoising (2022)](https://ieeexplore.ieee.org/document/9851680)
+- Fingerprint Presentation Attack Detection by Channel-Wise Feature Denoising,
 
   Feng Liu, **Zhe Kong**, Haozhe Liu, Wentian Zhang, Linlin Shen,
 
