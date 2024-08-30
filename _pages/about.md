@@ -73,7 +73,7 @@ Feng Liu, **Zhe Kong**, Haozhe Liu, Wentian Zhang, Linlin Shen
 
 ### Publication List
 - [OMG: Occlusion-friendly Personalized Multi-concept Generation in Diffusion Models (2024)](https://arxiv.org/abs/2403.10983). **Zhe Kong**, Yong Zhang, Tianyu Yang, Tao Wang, Kaihao Zhang, Bizhu Wu, Guanying Chen, Wei Liu, Wenhan Luo, **ECCV 2024**
-- Dual Teacher Knowledge Distillation with Domain Alignment for Face Anti-spoofing. (2024) **Zhe Kong**, Wentian Zhang, Tao Wang, Kaihao Zhang, Yuexiang Li, Xiaoying Tang, Wenhan Luo, **Arxiv**
+- [Dual Teacher Knowledge Distillation with Domain Alignment for Face Anti-spoofing. (2024)](https://ieeexplore.ieee.org/document/10654388) **Zhe Kong**, Wentian Zhang, Tao Wang, Kaihao Zhang, Yuexiang Li, Xiaoying Tang, Wenhan Luo, **TCSVT**
 - [Taming Self-Supervised Learning for Presentation Attack Detection: De-Folding and De-Mixing (2023)](https://ieeexplore.ieee.org/abstract/document/10051654) **Zhe Kong**, Wentian Zhang, Feng Liu, Wenhan Luo, Haozhe Liu, Linlin Shen, Raghavendra Ramachandra, **TNNLS**
 - [Fingerprint Presentation Attack Detection by Channel-Wise Feature Denoising (2022)](https://ieeexplore.ieee.org/document/9851680) Feng Liu, **Zhe Kong**, Haozhe Liu, Wentian Zhang, Linlin Shen, **TIFS**
 
