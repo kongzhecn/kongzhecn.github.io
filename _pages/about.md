@@ -34,7 +34,7 @@ My research interests include generative models and image/video synthesis.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/omg.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/paper/omg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - OMG: Occlusion-friendly Personalized Multi-concept Generation in Diffusion Models,
@@ -49,7 +49,7 @@ My research interests include generative models and image/video synthesis.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS</div><img src='images/dfdm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS</div><img src='images/paper/dfdm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - Taming Self-Supervised Learning for Presentation Attack Detection: De-Folding and De-Mixing,
@@ -63,6 +63,20 @@ My research interests include generative models and image/video synthesis.
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS</div><img src='images/paper/dfdm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- Fingerprint Presentation Attack Detection by Channel-Wise Feature Denoising,
+
+  Feng Liu, **Zhe Kong**, Haozhe Liu, Wentian Zhang, Linlin Shen,
+
+  IEEE Transactions on Information Forensics and Security (TIFS), 2022.
+
+  [**[paper]**](https://ieeexplore.ieee.org/abstract/document/9851680) [**[arxiv]**](https://arxiv.org/abs/2111.07620) [**[code]**](https://github.com/kongzhecn/cfd-pad)
+  
+</div>
+</div>
 
 
 ### Publication List
