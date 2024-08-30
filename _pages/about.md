@@ -72,10 +72,37 @@ Feng Liu, **Zhe Kong**, Haozhe Liu, Wentian Zhang, Linlin Shen
 </div>
 
 ### Publication List
-- [OMG: Occlusion-friendly Personalized Multi-concept Generation in Diffusion Models (2024)](https://arxiv.org/abs/2403.10983). **Zhe Kong**, Yong Zhang, Tianyu Yang, Tao Wang, Kaihao Zhang, Bizhu Wu, Guanying Chen, Wei Liu, Wenhan Luo, **ECCV 2024**
-- [Dual Teacher Knowledge Distillation with Domain Alignment for Face Anti-spoofing. (2024)](https://ieeexplore.ieee.org/document/10654388) **Zhe Kong**, Wentian Zhang, Tao Wang, Kaihao Zhang, Yuexiang Li, Xiaoying Tang, Wenhan Luo, **TCSVT**
-- [Taming Self-Supervised Learning for Presentation Attack Detection: De-Folding and De-Mixing (2023)](https://ieeexplore.ieee.org/abstract/document/10051654) **Zhe Kong**, Wentian Zhang, Feng Liu, Wenhan Luo, Haozhe Liu, Linlin Shen, Raghavendra Ramachandra, **TNNLS**
-- [Fingerprint Presentation Attack Detection by Channel-Wise Feature Denoising (2022)](https://ieeexplore.ieee.org/document/9851680) Feng Liu, **Zhe Kong**, Haozhe Liu, Wentian Zhang, Linlin Shen, **TIFS**
+- OMG: Occlusion-friendly Personalized Multi-concept Generation in Diffusion Models,
+
+  **Zhe Kong**, Yong Zhang, Tianyu Yang, Tao Wang, Kaihao Zhang, Bizhu Wu, Guanying Chen, Wei Liu, Wenhan Luo, 
+
+  European Conference on Computer Vision (ECCV), 2024.
+
+  [**[PDF]**](https://arxiv.org/abs/2403.10983) [**[Code]**](https://github.com/kongzhecn/OMG) [**[Project]**](https://kongzhecn.github.io/omg-project/) [**[HuggingFace]**](https://huggingface.co/spaces/Fucius/OMG)
+  
+- Dual Teacher Knowledge Distillation with Domain Alignment for Face Anti-spoofing,
+
+  **Zhe Kong**, Wentian Zhang, Tao Wang, Kaihao Zhang, Yuexiang Li, Xiaoying Tang, Wenhan Luo,
+
+  IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024.
+
+  [**[Paper]**](https://ieeexplore.ieee.org/document/10654388) [**[Arxiv]**](https://arxiv.org/abs/2401.01102)
+  
+- Taming Self-Supervised Learning for Presentation Attack Detection: De-Folding and De-Mixing,
+  
+  **Zhe Kong**, Wentian Zhang, Feng Liu, Wenhan Luo, Haozhe Liu, Linlin Shen, Raghavendra Ramachandra,
+
+  IEEE Transactions on Neural Networks and learning systems (TNNLS), 2023.
+
+  [**[Paper]**](https://ieeexplore.ieee.org/abstract/document/10051654) [**[Arxiv]**](https://arxiv.org/abs/2109.04100) [**[Code]**](https://github.com/kongzhecn/dfdm)
+
+- [Fingerprint Presentation Attack Detection by Channel-Wise Feature Denoising (2022)](https://ieeexplore.ieee.org/document/9851680)
+
+  Feng Liu, **Zhe Kong**, Haozhe Liu, Wentian Zhang, Linlin Shen,
+
+  IEEE Transactions on Information Forensics and Security (TIFS), 2022.
+
+  [**[Paper]**](https://ieeexplore.ieee.org/abstract/document/9851680) [**[Arxiv]**](https://arxiv.org/abs/2111.07620) [**[Code]**](https://github.com/kongzhecn/cfd-pad)
 
 # 💻 Internships
 - *2022.03 - 2022.11*, Tencent, China.
