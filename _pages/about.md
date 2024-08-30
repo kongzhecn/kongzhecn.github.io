@@ -25,11 +25,13 @@ I have published papers in journals, including TIFS, TNNLS.
 Previously, I interned at Tencent. My research interests include generative models and image/video synthesis.
 
 
-
+<!--
 # 🔥 News
 - *2023.04*: &nbsp;🎉🎉 I join Sun Yat-sen University to pursue the Ph.D. degree under the supervision of Wenhan Luo!
 - *2023.02*: &nbsp;🎉🎉 One paper is accepted by TNNLS!
 - *2022.08*: &nbsp;🎉🎉 One paper is accepted by TIFS!
+-->
+
 
 # 📝 Publications 
 
