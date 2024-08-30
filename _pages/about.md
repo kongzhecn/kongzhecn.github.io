@@ -43,7 +43,7 @@ Previously, I interned at Tencent. My research interests include generative mode
 **Zhe Kong**, Yong Zhang, Tianyu Yang, Tao Wang, Kaihao Zhang, Bizhu Wu, Guanying Chen, Wei Liu, Wenhan Luo
 
 -  In this work, we propose OMG, an occlusion-friendly personalized generation framework designed to seamlessly integrate multiple concepts within a single image. We propose a novel two-stage sampling solution. The first stage takes charge of layout generation and visual comprehension information collection for handling occlusions. The second one utilizes the acquired visual comprehension information and the designed noise blending to integrate multiple concepts while considering occlusions. We also observe that the initiation denoising timestep for noise blending is the key to identity preservation and layout. Moreover, our method can be combined with various single-concept models, such as LoRA and InstantID without additional tuning. Especially, LoRA models on Civitai.com can be exploited directly.
-- [**[Project]**](https://kongzhecn.github.io/omg-project/) [**[Code]**](https://github.com/kongzhecn/OMG) 
+- [**[Project]**](https://kongzhecn.github.io/omg-project/) [**[Code]**](https://github.com/kongzhecn/OMG) [**[HuggingFace Demo]**](https://huggingface.co/spaces/Fucius/OMG)
 </div>
 </div>
 
@@ -68,7 +68,7 @@ Previously, I interned at Tencent. My research interests include generative mode
 
   European Conference on Computer Vision (ECCV), 2024.
 
-  [**[Arxiv]**](https://arxiv.org/abs/2403.10983) [**[Code]**](https://github.com/kongzhecn/OMG) [**[Project]**](https://kongzhecn.github.io/omg-project/) [**[HuggingFace]**](https://huggingface.co/spaces/Fucius/OMG)
+  [**[Arxiv]**](https://arxiv.org/abs/2403.10983) [**[Code]**](https://github.com/kongzhecn/OMG) [**[Project]**](https://kongzhecn.github.io/omg-project/) [**[HuggingFace Demo]**](https://huggingface.co/spaces/Fucius/OMG)
   
 - Dual Teacher Knowledge Distillation with Domain Alignment for Face Anti-spoofing,
 
