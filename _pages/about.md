@@ -93,13 +93,13 @@ My research interests include generative models and image/video synthesis.
 </div>
 </div>
 
-
+<!--
 ### Publication List
 - OMG: Occlusion-friendly Personalized Multi-concept Generation in Diffusion Models,
 
   **Zhe Kong**, Yong Zhang, Tianyu Yang, Tao Wang, Kaihao Zhang, Bizhu Wu, Guanying Chen, Wei Liu, Wenhan Luo, 
 
-  European Conference on Computer Vision (ECCV), 2024.
+  **European Conference on Computer Vision (ECCV), 2024.**
 
   [**[arxiv]**](https://arxiv.org/abs/2403.10983) [**[code]**](https://github.com/kongzhecn/OMG) [**[project]**](https://kongzhecn.github.io/omg-project/) [**[huggingFace demo]**](https://huggingface.co/spaces/Fucius/OMG)
   
@@ -126,6 +126,8 @@ My research interests include generative models and image/video synthesis.
   IEEE Transactions on Information Forensics and Security (TIFS), 2022.
 
   [**[paper]**](https://ieeexplore.ieee.org/abstract/document/9851680) [**[arxiv]**](https://arxiv.org/abs/2111.07620) [**[code]**](https://github.com/kongzhecn/cfd-pad)
+-->
+
 
 # 💻 Internships
 - *2022.03 - 2022.11*, Tencent, China.
