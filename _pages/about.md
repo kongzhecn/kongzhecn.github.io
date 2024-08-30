@@ -49,6 +49,21 @@ My research interests include generative models and image/video synthesis.
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT</div><img src='images/paper/DTDA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- Dual Teacher Knowledge Distillation with Domain Alignment for Face Anti-spoofing,
+
+  **Zhe Kong**, Wentian Zhang, Tao Wang, Kaihao Zhang, Yuexiang Li, Xiaoying Tang, Wenhan Luo,
+
+  IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024.
+
+  [**[paper]**](https://ieeexplore.ieee.org/document/10654388) [**[arxiv]**](https://arxiv.org/abs/2401.01102)
+  
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS</div><img src='images/paper/dfdm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -64,7 +79,7 @@ My research interests include generative models and image/video synthesis.
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS</div><img src='images/paper/dfdm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIFS</div><img src='images/paper/cfd-pad.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - Fingerprint Presentation Attack Detection by Channel-Wise Feature Denoising,
