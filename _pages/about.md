@@ -41,7 +41,7 @@ My research interests include generative models and image/video synthesis.
 
   **Zhe Kong**, Yong Zhang, Tianyu Yang, Tao Wang, Kaihao Zhang, Bizhu Wu, Guanying Chen, Wei Liu, Wenhan Luo, 
 
-  **European Conference on Computer Vision (ECCV), 2024.**
+  *European Conference on Computer Vision (ECCV), 2024.*
 
   [**[arxiv]**](https://arxiv.org/abs/2403.10983) [**[code]**](https://github.com/kongzhecn/OMG) [**[project]**](https://kongzhecn.github.io/omg-project/) [**[huggingFace demo]**](https://huggingface.co/spaces/Fucius/OMG)
 
@@ -56,7 +56,7 @@ My research interests include generative models and image/video synthesis.
 
   **Zhe Kong**, Wentian Zhang, Tao Wang, Kaihao Zhang, Yuexiang Li, Xiaoying Tang, Wenhan Luo,
 
-  **IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024.**
+  *IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024.*
 
   [**[paper]**](https://ieeexplore.ieee.org/document/10654388) [**[arxiv]**](https://arxiv.org/abs/2401.01102)
   
@@ -71,7 +71,7 @@ My research interests include generative models and image/video synthesis.
   
   **Zhe Kong**, Wentian Zhang, Feng Liu, Wenhan Luo, Haozhe Liu, Linlin Shen, Raghavendra Ramachandra,
 
-  **IEEE Transactions on Neural Networks and learning systems (TNNLS), 2023.**
+  *IEEE Transactions on Neural Networks and learning systems (TNNLS), 2023.*
 
   [**[paper]**](https://ieeexplore.ieee.org/abstract/document/10051654) [**[arxiv]**](https://arxiv.org/abs/2109.04100) [**[code]**](https://github.com/kongzhecn/dfdm)
   
@@ -86,7 +86,7 @@ My research interests include generative models and image/video synthesis.
 
   Feng Liu, **Zhe Kong**, Haozhe Liu, Wentian Zhang, Linlin Shen,
 
-  **IEEE Transactions on Information Forensics and Security (TIFS), 2022.**
+  *IEEE Transactions on Information Forensics and Security (TIFS), 2022.*
 
   [**[paper]**](https://ieeexplore.ieee.org/abstract/document/9851680) [**[arxiv]**](https://arxiv.org/abs/2111.07620) [**[code]**](https://github.com/kongzhecn/cfd-pad)
   
