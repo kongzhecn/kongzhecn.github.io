@@ -144,7 +144,7 @@ My research interests include generative models and image/video synthesis.
 
 
 # 💻 Internships
-- <img src="images/tencent_ailab.jpg" height=40> *2024.04 - 2024.09*, [AI Lab CVC](https://github.com/AILab-CVC), Tencent, Research Intern, supervised by Dr. [Yong Zhang](https://yzhang2016.github.io/)
+- <img src="images/tencent_ailab.jpg" height=4> *2024.04 - 2024.09*, [AI Lab CVC](https://github.com/AILab-CVC), Tencent, Research Intern, supervised by Dr. [Yong Zhang](https://yzhang2016.github.io/)
 
 # 🎖 Honors and Awards
 - 2023 Outstanding Graduate Award (Rate<5%)
