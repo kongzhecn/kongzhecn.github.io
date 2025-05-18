@@ -57,7 +57,7 @@ My research interests include generative models and image/video synthesis.
 
   *Technical Report, 2024.*
 
-  [**[arxiv]**](https://arxiv.org/abs/2409.07447) [**[code]**](https://github.com/TencentARC/StereoCrafter) [**[project]**](https://stereocrafter.github.io/)
+  [**[arxiv]**](https://arxiv.org/abs/2409.07447) [**[code]**](https://github.com/TencentARC/StereoCrafter) [**[project]**](https://stereocrafter.github.io/)  [![GitHub](https://img.shields.io/github/stars/TencentARC/StereoCrafter?style=social)](https://github.com/TencentARC/StereoCrafter)
 
 </div>
 </div>
@@ -71,7 +71,7 @@ My research interests include generative models and image/video synthesis.
 
   *European Conference on Computer Vision (ECCV), 2024.*
 
-  [**[arxiv]**](https://arxiv.org/abs/2403.10983) [**[code]**](https://github.com/kongzhecn/OMG) [**[project]**](https://kongzhecn.github.io/omg-project/) [**[huggingFace demo]**](https://huggingface.co/spaces/Fucius/OMG)
+  [**[arxiv]**](https://arxiv.org/abs/2403.10983) [**[code]**](https://github.com/kongzhecn/OMG) [**[project]**](https://kongzhecn.github.io/omg-project/) [**[huggingFace demo]**](https://huggingface.co/spaces/Fucius/OMG)  [![GitHub](https://img.shields.io/github/stars/kongzhecn/OMG?style=social)](https://github.com/kongzhecn/OMG)
 
 </div>
 </div>
@@ -101,7 +101,7 @@ My research interests include generative models and image/video synthesis.
 
   *IEEE Transactions on Neural Networks and learning systems (TNNLS), 2023.*
 
-  [**[paper]**](https://ieeexplore.ieee.org/abstract/document/10051654) [**[arxiv]**](https://arxiv.org/abs/2109.04100) [**[code]**](https://github.com/kongzhecn/dfdm)
+  [**[paper]**](https://ieeexplore.ieee.org/abstract/document/10051654) [**[arxiv]**](https://arxiv.org/abs/2109.04100) [**[code]**](https://github.com/kongzhecn/dfdm)  [![GitHub](https://img.shields.io/github/stars/kongzhecn/dfdm?style=social)](https://github.com/kongzhecn/dfdm)
   
 </div>
 </div>
@@ -116,45 +116,14 @@ My research interests include generative models and image/video synthesis.
 
   *IEEE Transactions on Information Forensics and Security (TIFS), 2022.*
 
-  [**[paper]**](https://ieeexplore.ieee.org/abstract/document/9851680) [**[arxiv]**](https://arxiv.org/abs/2111.07620) [**[code]**](https://github.com/kongzhecn/cfd-pad)
+  [**[paper]**](https://ieeexplore.ieee.org/abstract/document/9851680) [**[arxiv]**](https://arxiv.org/abs/2111.07620) [**[code]**](https://github.com/kongzhecn/cfd-pad)  [![GitHub](https://img.shields.io/github/stars/kongzhecn/cfd-pad?style=social)](https://github.com/kongzhecn/cfd-pad) 
   
 </div>
 </div>
 
-<!--
-### Publication List
-- OMG: Occlusion-friendly Personalized Multi-concept Generation in Diffusion Models,
 
-  **Zhe Kong**, Yong Zhang, Tianyu Yang, Tao Wang, Kaihao Zhang, Bizhu Wu, Guanying Chen, Wei Liu, Wenhan Luo, 
 
-  **European Conference on Computer Vision (ECCV), 2024.**
 
-  [**[arxiv]**](https://arxiv.org/abs/2403.10983) [**[code]**](https://github.com/kongzhecn/OMG) [**[project]**](https://kongzhecn.github.io/omg-project/) [**[huggingFace demo]**](https://huggingface.co/spaces/Fucius/OMG)
-  
-- Dual Teacher Knowledge Distillation with Domain Alignment for Face Anti-spoofing,
-
-  **Zhe Kong**, Wentian Zhang, Tao Wang, Kaihao Zhang, Yuexiang Li, Xiaoying Tang, Wenhan Luo,
-
-  IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024.
-
-  [**[paper]**](https://ieeexplore.ieee.org/document/10654388) [**[arxiv]**](https://arxiv.org/abs/2401.01102)
-  
-- Taming Self-Supervised Learning for Presentation Attack Detection: De-Folding and De-Mixing,
-  
-  **Zhe Kong**, Wentian Zhang, Feng Liu, Wenhan Luo, Haozhe Liu, Linlin Shen, Raghavendra Ramachandra,
-
-  IEEE Transactions on Neural Networks and learning systems (TNNLS), 2023.
-
-  [**[paper]**](https://ieeexplore.ieee.org/abstract/document/10051654) [**[arxiv]**](https://arxiv.org/abs/2109.04100) [**[code]**](https://github.com/kongzhecn/dfdm)
-
-- Fingerprint Presentation Attack Detection by Channel-Wise Feature Denoising,
-
-  Feng Liu, **Zhe Kong**, Haozhe Liu, Wentian Zhang, Linlin Shen,
-
-  IEEE Transactions on Information Forensics and Security (TIFS), 2022.
-
-  [**[paper]**](https://ieeexplore.ieee.org/abstract/document/9851680) [**[arxiv]**](https://arxiv.org/abs/2111.07620) [**[code]**](https://github.com/kongzhecn/cfd-pad)
--->
 
 
 # 💻 Internships
