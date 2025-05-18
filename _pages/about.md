@@ -43,7 +43,7 @@ My research interests include generative models and image/video synthesis.
 
   *ACM SIGGRAPH, 2025.*
 
-  [**[arxiv]**](https://kongzhecn.github.io/projects/dam-vsr/) [**[project]**](https://kongzhecn.github.io/projects/dam-vsr/)
+  [**[arxiv]**](https://kongzhecn.github.io/projects/dam-vsr/)  [**[code]**](https://github.com/TencentARC/StereoCrafter) [**[project]**](https://kongzhecn.github.io/projects/dam-vsr/)
 
 </div>
 </div>
