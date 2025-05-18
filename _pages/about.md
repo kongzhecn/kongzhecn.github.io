@@ -37,6 +37,20 @@ My research interests include generative models and image/video synthesis.
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/paper/StereoCrafter.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+- DAM-VSR: Disentanglement of Appearance and Motion for Video Super-Resolution,
+
+  **Zhe Kong**, Le Li, Yong Zhang, Feng Gao, Shaoshu Yang, Tao Wang, Kaihao Zhang, Zhuoliang Kang, Xiaoming Wei, Guanying Chen, Wenhan Luo
+
+  *ACM SIGGRAPH, 2025.*
+
+  [**[arxiv]**](https://kongzhecn.github.io/projects/dam-vsr/) [**[project]**](https://kongzhecn.github.io/projects/dam-vsr/)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/paper/StereoCrafter.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 - StereoCrafter: Diffusion-based Generation of Long and High-fidelity Stereoscopic 3D from Monocular Videos,
 
   Sijie Zhao, Wenbo Hu, Xiaodong Cun, Yong Zhang, Xiaoyu Li, **Zhe Kong**, Xiangjun Gao, Muyao Niu, Ying Shan, 
