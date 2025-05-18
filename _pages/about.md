@@ -166,7 +166,12 @@ My research interests include generative models and image/video synthesis.
 - 2021 Excellent Academic Scholarship, First Class.
 - 2020 Freshman Scholarship, First Class.
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=5aBFZtCAuliWAUUU7uSDjj28_y6nENqF-lFpMxC3eHY&cl=ffffff&w=a"></script>
+# 🎖 Visitors
+<div id="clustrmaps-container" style="width: 500px; height: 500px;">
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=5aBFZtCAuliWAUUU7uSDjj28_y6nENqF-lFpMxC3eHY&cl=ffffff&w=a"></script>
+</div>
+
+
 
 <!--
 # 📖 Educations
