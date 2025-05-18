@@ -34,7 +34,7 @@ My research interests include generative models and image/video synthesis.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM SIGGRAPH</div><img src='images/paper/dam-vsr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM SIGGRAPH 2025</div><img src='images/paper/dam-vsr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - DAM-VSR: Disentanglement of Appearance and Motion for Video Super-Resolution,
