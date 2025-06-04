@@ -34,7 +34,7 @@ My research interests include generative models and image/video synthesis.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/paper/dam-vsr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><video src="https://github.com/user-attachments/assets/e55952e6-e1b2-44a5-9887-a89307a378da" width="320" controls loop></video></div></div>
 <div class='paper-box-text' markdown="1">
 
 - Let Them Talk: Audio-Driven Multi-Person Conversational Video Generation,
@@ -49,7 +49,7 @@ My research interests include generative models and image/video synthesis.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM SIGGRAPH 2025</div><video src="https://github.com/user-attachments/assets/e55952e6-e1b2-44a5-9887-a89307a378da" width="320" controls loop></video></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM SIGGRAPH 2025</div><img src='images/paper/dam-vsr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - DAM-VSR: Disentanglement of Appearance and Motion for Video Super-Resolution,
