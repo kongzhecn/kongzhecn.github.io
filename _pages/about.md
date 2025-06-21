@@ -43,7 +43,7 @@ My research interests include generative models and image/video synthesis.
 
   *Technical Report, 2025.*
 
-  [**[arxiv]**](https://arxiv.org/abs/2409.07447) [**[code]**](https://github.com/MeiGen-AI/MultiTalk) [**[project]**](https://meigen-ai.github.io/multi-talk/)  [![GitHub](https://img.shields.io/github/stars/MeiGen-AI/MultiTalk?style=social)](https://github.com/MeiGen-AI/MultiTalk)
+  [**[arxiv]**](https://arxiv.org/abs/2505.22647) [**[code]**](https://github.com/MeiGen-AI/MultiTalk) [**[project]**](https://meigen-ai.github.io/multi-talk/)  [![GitHub](https://img.shields.io/github/stars/MeiGen-AI/MultiTalk?style=social)](https://github.com/MeiGen-AI/MultiTalk)
 
 
 </div>
@@ -58,7 +58,7 @@ My research interests include generative models and image/video synthesis.
 
   *ACM SIGGRAPH, 2025.*
 
-  [**[arxiv]**](https://arxiv.org/abs/2505.22647)  [**[project]**](https://kongzhecn.github.io/projects/dam-vsr/)
+  [**[arxiv]**](https://kongzhecn.github.io/projects/dam-vsr/)  [**[project]**](https://kongzhecn.github.io/projects/dam-vsr/)
 
 </div>
 </div>
