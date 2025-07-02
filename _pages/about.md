@@ -58,7 +58,7 @@ My research interests include generative models and image/video synthesis.
 
   *ACM SIGGRAPH, 2025.*
 
-  [**[arxiv]**](https://kongzhecn.github.io/projects/dam-vsr/)  [**[project]**](https://kongzhecn.github.io/projects/dam-vsr/)
+  [**[arxiv]**](https://arxiv.org/abs/2507.01012)  [**[code]**](https://github.com/kongzhecn/DAM-VSR)  [**[project]**](https://kongzhecn.github.io/projects/dam-vsr/)  [![GitHub](https://img.shields.io/github/stars/kongzhecn/DAM-VSR?style=social)](https://github.com/kongzhecn/DAM-VSR)
 
 </div>
 </div>
