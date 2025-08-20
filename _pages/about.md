@@ -54,7 +54,7 @@ My research interests include generative models and image/video synthesis.
 
 - InfiniteTalk: Audio-driven Video Generation for Sparse-Frame Video Dubbing,
 
-  Shaoshu Yang<sup>*</sup>, **Zhe Kong<sup>*</sup>**, Feng Gao<sup>*</sup>, Meng Cheng<sup>*</sup>, Xiangyu Liu<sup>*</sup>, Yong Zhang, Zhuoliang Kang, Wenhan Luo, Xunliang Cai, Ran He, Xiaoming Wei
+  Shaoshu Yang <sup>*</sup>, **Zhe Kong** <sup>*</sup>, Feng Gao <sup>*</sup>, Meng Cheng <sup>*</sup>, Xiangyu Liu <sup>*</sup>, Yong Zhang, Zhuoliang Kang, Wenhan Luo, Xunliang Cai, Ran He, Xiaoming Wei
 
   *Technical Report, 2025.*
 
