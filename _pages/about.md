@@ -39,7 +39,7 @@ My research interests include generative models and image/video synthesis.
 
 - Let Them Talk: Audio-Driven Multi-Person Conversational Video Generation,
 
-  **Zhe Kong**, Feng Gao, Yong Zhang, Zhuoliang Kang, Xiaoming Wei, Xunliang Cai, Guanying Chen, Wenhan Luo
+  **Zhe Kong** *, Feng Gao *, Yong Zhang, Zhuoliang Kang, Xiaoming Wei, Xunliang Cai, Guanying Chen, Wenhan Luo
 
   *Technical Report, 2025.*
 
