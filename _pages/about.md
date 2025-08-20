@@ -49,6 +49,21 @@ My research interests include generative models and image/video synthesis.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/paper/infinitetalk.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- InfiniteTalk: Audio-driven Video Generation for Sparse-Frame Video Dubbing,
+
+  Shaoshu Yang<sup>*</sup>, **Zhe Kong<sup>*</sup>**, Feng Gao<sup>*</sup>, Meng Cheng<sup>*</sup>, Xiangyu Liu<sup>*</sup>, Yong Zhang, Zhuoliang Kang, Wenhan Luo, Xunliang Cai, Ran He, Xiaoming Wei
+
+  *Technical Report, 2025.*
+
+  [**[arxiv]**](https://arxiv.org/abs/2508.14033) [**[code]**](https://github.com/MeiGen-AI/InfiniteTalk) [**[project]**](https://meigen-ai.github.io/InfiniteTalk/)  [![GitHub](https://img.shields.io/github/stars/MeiGen-AI/InfiniteTalk?style=social)](https://github.com/MeiGen-AI/InfiniteTalk)
+
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM SIGGRAPH 2025</div><img src='images/paper/dam-vsr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
