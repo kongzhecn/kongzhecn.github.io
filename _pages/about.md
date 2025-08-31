@@ -78,19 +78,7 @@ My research interests include generative models and image/video synthesis.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/paper/StereoCrafter.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-- StereoCrafter: Diffusion-based Generation of Long and High-fidelity Stereoscopic 3D from Monocular Videos,
-
-  Sijie Zhao, Wenbo Hu, Xiaodong Cun, Yong Zhang, Xiaoyu Li, **Zhe Kong**, Xiangjun Gao, Muyao Niu, Ying Shan, 
-
-  *Technical Report, 2024.*
-
-  [**[arxiv]**](https://arxiv.org/abs/2409.07447) [**[code]**](https://github.com/TencentARC/StereoCrafter) [**[project]**](https://stereocrafter.github.io/)  [![GitHub](https://img.shields.io/github/stars/TencentARC/StereoCrafter?style=social)](https://github.com/TencentARC/StereoCrafter)
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/paper/omg.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
