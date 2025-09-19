@@ -34,14 +34,14 @@ My research interests include generative models and image/video synthesis.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><video src="https://github.com/user-attachments/assets/e55952e6-e1b2-44a5-9887-a89307a378da" width="320" controls loop></video></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><video src="https://github.com/user-attachments/assets/e55952e6-e1b2-44a5-9887-a89307a378da" width="320" controls loop></video></div></div>
 <div class='paper-box-text' markdown="1">
 
 - Let Them Talk: Audio-Driven Multi-Person Conversational Video Generation,
 
   **Zhe Kong** *, Feng Gao *, Yong Zhang, Zhuoliang Kang, Xiaoming Wei, Xunliang Cai, Guanying Chen, Wenhan Luo
 
-  *Technical Report, 2025.*
+  *Conference on Neural Information Processing Systems (NeurIPS), 2025.*
 
   [**[arxiv]**](https://arxiv.org/abs/2505.22647) [**[code]**](https://github.com/MeiGen-AI/MultiTalk) [**[project]**](https://meigen-ai.github.io/multi-talk/)  [![GitHub](https://img.shields.io/github/stars/MeiGen-AI/MultiTalk?style=social)](https://github.com/MeiGen-AI/MultiTalk)
 
