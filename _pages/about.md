@@ -157,7 +157,7 @@ My research interests include generative models and image/video synthesis.
 
 # 💻 Internships
 
-- <img src="" alt="sym" width="4%"> *2024.09 - Present*, Meituan, Research Intern, supervised by Dr. [Yong Zhang](https://yzhang2016.github.io/)
+- <img src="https://play-lh.googleusercontent.com/C4OV39W_PKA0goub32o1ZwjSsKekUDPm-BQiAXDKn-WPk03cDrXRRsuN5Q02L50bnOyl" alt="sym" width="4%"> *2024.09 - Present*, Meituan, Research Intern, supervised by Dr. [Yong Zhang](https://yzhang2016.github.io/)
 
 - <img src="images/tencent_ailab.jpg" alt="sym" width="4%"> *2024.04 - 2024.09*, [AI Lab CVC](https://github.com/AILab-CVC), Tencent, Research Intern, supervised by Dr. [Yong Zhang](https://yzhang2016.github.io/)
 
