@@ -18,8 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-
-I am working towards a Ph.D. degree at Sun Yat-sen University, under the supervision of Prof. [Wenhan Luo](https://whluo.github.io/) and Prof. [Guanying Chen](https://guanyingc.github.io/). 
+I am a third-year Ph.D. student at Sun Yat-sen University, under the supervision of Prof. [Wenhan Luo](https://whluo.github.io/) and Prof. [Guanying Chen](https://guanyingc.github.io/), and I will graduate in 2027.
 Before, I received the M.E. degree from Shenzhen University, China, 2023 and under the supervision of Prof. [Feng Liu](https://scholar.google.com/citations?user=45uLWocAAAAJ) and Prof. [Linlin Shen](https://scholar.google.com/citations?user=AZ_y9HgAAAAJ).
 My research interests include generative models and image/video synthesis.
 
@@ -33,6 +32,18 @@ My research interests include generative models and image/video synthesis.
 
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/paper/longcat-avatar.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- LongCat-Video-Avatar Technical Report,
+
+  **Meituan LongCat Team**
+
+  [**[PDF]**](https://github.com/meituan-longcat/LongCat-Video/blob/main/assets/LongCat-Video-Avatar-Tech-Report.pdf) [**[code]**](https://github.com/meituan-longcat/LongCat-Video) [**[project]**](https://meigen-ai.github.io/LongCat-Video-Avatar/)  [![GitHub](https://img.shields.io/github/stars/MeiGen-AI/MultiTalk?style=social)](https://github.com/meituan-longcat/LongCat-Video)
+  
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><video src="https://github.com/user-attachments/assets/e55952e6-e1b2-44a5-9887-a89307a378da" width="320" controls loop></video></div></div>
 <div class='paper-box-text' markdown="1">
@@ -49,14 +60,14 @@ My research interests include generative models and image/video synthesis.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Technical Report</div><img src='images/paper/infinitetalk.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/paper/infinitetalk.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - InfiniteTalk: Audio-driven Video Generation for Sparse-Frame Video Dubbing,
 
   Shaoshu Yang *, **Zhe Kong** *, Feng Gao *, Meng Cheng *, Xiangyu Liu *, Yong Zhang, Zhuoliang Kang, Wenhan Luo, Xunliang Cai, Ran He, Xiaoming Wei
 
-  *Technical Report, 2025.*
+  *Arxiv, 2025.*
 
   [**[arxiv]**](https://arxiv.org/abs/2508.14033) [**[code]**](https://github.com/MeiGen-AI/InfiniteTalk) [**[project]**](https://meigen-ai.github.io/InfiniteTalk/)  [![GitHub](https://img.shields.io/github/stars/MeiGen-AI/InfiniteTalk?style=social)](https://github.com/MeiGen-AI/InfiniteTalk)
 
@@ -145,6 +156,7 @@ My research interests include generative models and image/video synthesis.
 
 
 # 💻 Internships
+
 - <img src="images/tencent_ailab.jpg" alt="sym" width="4%"> *2024.04 - 2024.09*, [AI Lab CVC](https://github.com/AILab-CVC), Tencent, Research Intern, supervised by Dr. [Yong Zhang](https://yzhang2016.github.io/)
 
 # 🎖 Honors and Awards
