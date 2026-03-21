@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am a third-year Ph.D. student at Sun Yat-sen University, under the supervision of Prof. [Wenhan Luo](https://whluo.github.io/) and Prof. [Guanying Chen](https://guanyingc.github.io/), and I will graduate in 2027.
+I am currently a third-year Ph.D. candidate at Sun Yat-sen University, under the supervision of Prof. [Wenhan Luo](https://whluo.github.io/) and Prof. [Guanying Chen](https://guanyingc.github.io/). I expect to graduate in 2027.
 Before, I received the M.E. degree from Shenzhen University, China, 2023 and under the supervision of Prof. [Feng Liu](https://scholar.google.com/citations?user=45uLWocAAAAJ) and Prof. [Linlin Shen](https://scholar.google.com/citations?user=AZ_y9HgAAAAJ).
 My research interests include generative models and image/video synthesis.
 
@@ -157,6 +157,8 @@ My research interests include generative models and image/video synthesis.
 
 # 💻 Internships
 
+- <img src="" alt="sym" width="4%"> *2024.09 - Present*, Meituan, Research Intern, supervised by Dr. [Yong Zhang](https://yzhang2016.github.io/)
+
 - <img src="images/tencent_ailab.jpg" alt="sym" width="4%"> *2024.04 - 2024.09*, [AI Lab CVC](https://github.com/AILab-CVC), Tencent, Research Intern, supervised by Dr. [Yong Zhang](https://yzhang2016.github.io/)
 
 # 🎖 Honors and Awards
@@ -172,12 +174,7 @@ My research interests include generative models and image/video synthesis.
 
 
 
-<!--
-# 📖 Educations
-- *2023.09 - (now)*, Sun Yat-sen University. 
-- *2020.09 - 2023.06*, Shenzhen University. 
-- *2016.09 - 2020.06*, South China Agricultural University. 
--->
+
 
 <!--
 # 💬 Invited Talks
