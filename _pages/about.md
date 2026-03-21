@@ -40,7 +40,7 @@ My research interests include generative models and image/video synthesis.
 
   **Meituan LongCat Team**
 
-  [**[PDF]**](https://github.com/meituan-longcat/LongCat-Video/blob/main/assets/LongCat-Video-Avatar-Tech-Report.pdf) [**[code]**](https://github.com/meituan-longcat/LongCat-Video) [**[project]**](https://meigen-ai.github.io/LongCat-Video-Avatar/)  [![GitHub](https://img.shields.io/github/stars/MeiGen-AI/MultiTalk?style=social)](https://github.com/meituan-longcat/LongCat-Video)
+  [**[PDF]**](https://github.com/meituan-longcat/LongCat-Video/blob/main/assets/LongCat-Video-Avatar-Tech-Report.pdf) [**[code]**](https://github.com/meituan-longcat/LongCat-Video) [**[project]**](https://meigen-ai.github.io/LongCat-Video-Avatar/)  [![GitHub](https://img.shields.io/github/stars/meituan-longcat/LongCat-Video?style=social)](https://github.com/meituan-longcat/LongCat-Video)
   
 </div>
 </div>
