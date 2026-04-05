@@ -19,7 +19,6 @@ redirect_from:
 
 
 I am currently a third-year Ph.D. candidate at Sun Yat-sen University, under the supervision of Prof. [Wenhan Luo](https://whluo.github.io/) and Prof. [Guanying Chen](https://guanyingc.github.io/). I expect to graduate in 2027.
-Before, I received the M.E. degree from Shenzhen University, China, 2023 and under the supervision of Prof. [Feng Liu](https://scholar.google.com/citations?user=45uLWocAAAAJ) and Prof. [Linlin Shen](https://scholar.google.com/citations?user=AZ_y9HgAAAAJ).
 My research interests include generative models and image/video synthesis.
 
 
@@ -163,9 +162,7 @@ My research interests include generative models and image/video synthesis.
 
 # 🎖 Honors and Awards
 - 2023 Outstanding Graduate Award (Rate<5%)
-- 2022 Excellent Academic Scholarship, First Class.
-- 2021 Excellent Academic Scholarship, First Class.
-- 2020 Freshman Scholarship, First Class.
+
 
 # Visitors
 <div id="clustrmaps-container" style="width: 500px; height: 500px;">
