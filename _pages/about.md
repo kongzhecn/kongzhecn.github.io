@@ -129,7 +129,7 @@ My research interests include generative models and image/video synthesis.
 
   *IEEE Transactions on Neural Networks and learning systems (TNNLS), 2023.*
 
-  [**[paper]**](https://ieeexplore.ieee.org/abstract/document/10051654) [**[arxiv]**](https://arxiv.org/abs/2109.04100) [**[code]**](https://github.com/kongzhecn/dfdm)  [![GitHub](https://img.shields.io/github/stars/kongzhecn/dfdm?style=social)](https://github.com/kongzhecn/dfdm)
+  [**[paper]**](https://ieeexplore.ieee.org/abstract/document/10051654) [**[arxiv]**](https://arxiv.org/abs/2109.04100) [**[code]**](https://github.com/kongzhecn/dfdm) 
   
 </div>
 </div>
@@ -144,7 +144,7 @@ My research interests include generative models and image/video synthesis.
 
   *IEEE Transactions on Information Forensics and Security (TIFS), 2022.*
 
-  [**[paper]**](https://ieeexplore.ieee.org/abstract/document/9851680) [**[arxiv]**](https://arxiv.org/abs/2111.07620) [**[code]**](https://github.com/kongzhecn/cfd-pad)  [![GitHub](https://img.shields.io/github/stars/kongzhecn/cfd-pad?style=social)](https://github.com/kongzhecn/cfd-pad) 
+  [**[paper]**](https://ieeexplore.ieee.org/abstract/document/9851680) [**[arxiv]**](https://arxiv.org/abs/2111.07620) [**[code]**](https://github.com/kongzhecn/cfd-pad) 
   
 </div>
 </div>
