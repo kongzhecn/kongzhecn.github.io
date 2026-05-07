@@ -22,7 +22,7 @@ I am currently a third-year Ph.D. candidate at Sun Yat-sen University, under the
 My research interests include generative models and image/video synthesis.
 
 <p style="color: red;">
-  I expect to graduate in 2027 and will be actively seeking opportunities through 2026 recruitment. If you are recruiting, please feel free to contact me at kongzhecn[at]google[dot]com.
+  I expect to graduate in 2027 and will be actively seeking opportunities through 2026 recruitment. If you are recruiting, please feel free to contact me at <span class="email">kongzhecn[at]google[dot]com</span>.
 </p>
 
 <!--
